@@ -1,0 +1,6 @@
+.DS_Store
+.vscode
+bazel-bin
+bazel-DSP
+bazel-out
+bazel-testlogs
